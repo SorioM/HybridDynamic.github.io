@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HybridDynamic.github.io.git/static/css/main.da3399a9.css",
+    "main.js": "/HybridDynamic.github.io.git/static/js/main.de4272cf.js",
+    "static/media/contact.jpg": "/HybridDynamic.github.io.git/static/media/contact.df8b8bb99c45131b7fb1.jpg",
+    "static/media/gymvid.mp4": "/HybridDynamic.github.io.git/static/media/gymvid.5dc83ffc3aa19720c495.mp4",
+    "static/media/about2.jpg": "/HybridDynamic.github.io.git/static/media/about2.25ce73bf4ce9a1d82e60.jpg",
+    "static/media/5.gif": "/HybridDynamic.github.io.git/static/media/5.6a51a497819c374a2af2.gif",
+    "static/media/1.gif": "/HybridDynamic.github.io.git/static/media/1.5e6f4d1e1fca55d34443.gif",
+    "static/media/4.gif": "/HybridDynamic.github.io.git/static/media/4.38eeefcd99f02a2e568d.gif",
+    "static/media/3.gif": "/HybridDynamic.github.io.git/static/media/3.2d474700ccc17a56bdce.gif",
+    "static/media/2.gif": "/HybridDynamic.github.io.git/static/media/2.0b4faaf15a0f9fc648b1.gif",
+    "static/media/6.gif": "/HybridDynamic.github.io.git/static/media/6.e84aa43ff98677b3320d.gif",
+    "static/media/logo_vid.mp4": "/HybridDynamic.github.io.git/static/media/logo_vid.e5716e34c7f207a949c1.mp4",
+    "static/media/logo2.png": "/HybridDynamic.github.io.git/static/media/logo2.ec6fb797c0a0b141d77c.png",
+    "static/media/gym.png": "/HybridDynamic.github.io.git/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/HybridDynamic.github.io.git/index.html",
+    "main.da3399a9.css.map": "/HybridDynamic.github.io.git/static/css/main.da3399a9.css.map",
+    "main.de4272cf.js.map": "/HybridDynamic.github.io.git/static/js/main.de4272cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3399a9.css",
+    "static/js/main.de4272cf.js"
+  ]
+}
